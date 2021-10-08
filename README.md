@@ -26,7 +26,7 @@ Due to this we can't install any new desktop app in linux[kali] and I tried many
 
 # Solution to this?
 
-I got some solution for this by installing old packages/ old version of libappindicator1 packages links to download is below 👇
+I got some solution for this by installing old packages/ old version of libappindicator1 packages. Links to download is below 👇
 
 link : http://ftp.br.debian.org/debian/pool/main/liba/libappindicator/libappindicator1_0.4.92-8_amd64.deb
 
