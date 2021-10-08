@@ -30,7 +30,7 @@ I got some solution for this by installing old packages/ old version of libappin
 
 link : http://ftp.br.debian.org/debian/pool/main/liba/libappindicator/libappindicator1_0.4.92-8_amd64.deb
 
-after downloading this libappindicator1_0.4.92-8_amd64.deb packages type "sudo dpkg -i libappindicator1_0.4.92-8_amd64.deb" to install debian packages and see now this issue have been solved.
+after downloading this libappindicator1_0.4.92-8_amd64.deb packages type <code>sudo dpkg -i libappindicator1_0.4.92-8_amd64.deb</code> to install debian packages and see now this issue have been solved.
 
 # some other problems
 
